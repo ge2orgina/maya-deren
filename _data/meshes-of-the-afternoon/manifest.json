@@ -23,6 +23,16 @@
         "id": "https://ge2orgina.github.io/maya-deren/meshes-of-the-afternoon/canvas-1/canvas",
         "type": "Canvas",
         "duration": 13.29,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://ge2orgina.github.io/maya-deren/annotations/meshes-of-the-afternoon-canvas-1-panning.json",
+            "label": {
+              "none": ["Panning"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://ge2orgina.github.io/maya-deren/meshes-of-the-afternoon/canvas-1/paintings",
