@@ -31,7 +31,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "1080.0,1260.0"
+          "t": "18.0,21.0"
         }
       }
     },
@@ -45,7 +45,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "The shadow approaches the flower ",
+        "value": "Deren's shadow approaches the flower ",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -62,7 +62,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "1559.0,1860.0"
+          "t": "26.0,32.0"
         }
       }
     },
@@ -76,7 +76,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "The lady can be seen swinging the flower as she walks away",
+        "value": "Deren can be seen swinging the flower as she walks away",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -93,7 +93,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "2220.0,2460.0"
+          "t": "37.0,41.0"
         }
       }
     },
@@ -107,7 +107,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "The camera pans from the man to the shadow of the lady to switch the focus",
+        "value": "The camera pans from the man to Deren's shadow to switch focus",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -124,7 +124,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "2820.0,3000.0"
+          "t": "47.0,51.0"
         }
       }
     },
@@ -138,7 +138,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Pans from the walls of the bedroom to the table with the bread and knife",
+        "value": "Pans from the walls of the bedroom to the table with the bread and knife. The knife appears several times after this.",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -155,7 +155,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "6120.0,6360.0"
+          "t": "102.0,106.0"
         }
       }
     },
@@ -169,7 +169,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "pans from the bread on the table to the phone",
+        "value": "Pans from the bread on the table to the phone - almost mimics her eyes skirting from the table to the phone",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -186,7 +186,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "6960.0,7200.0"
+          "t": "115.0,120.0"
         }
       }
     },
@@ -200,7 +200,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "the camera pans from the hooded figure to the lady running after it and then back in the same direction",
+        "value": "The camera pans from the hooded figure to Deren running after it and then back in the same direction - she can run forever but not reach the figure",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -217,7 +217,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "13920.0,14100.0"
+          "t": "231.0,243.0"
         }
       }
     },
@@ -231,7 +231,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "pans around the room and lands on a knife on the stairs to signify what the lady looks at once she walks into the room",
+        "value": "Pans around the room and lands on a knife on the stairs to signify what the lady looks at once she walks into the room",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -248,7 +248,38 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "15720.0,8880.0"
+          "t": "262.0,268.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon-canvas-1-panning-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Pans from the left side of the room to the right to show the figure going up the stairs holding the flower. Right before this, Deren opens the door to the room and looks inside. The camera movement signifies Deren looking inside the room.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://ge2orgina.github.io/maya-deren/meshes-of-the-afternoon/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://ge2orgina.github.io/maya-deren/meshes-of-the-afternoon/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "419.0,424.0"
         }
       }
     }
